@@ -2512,19 +2512,6 @@
           "region" : "Southeast",
           "secondary" : "##FDB913",
           "tertiary" : "#FFFFFF"
-        },
-        {
-          "abbreviation" : "TXST",
-          "defenseScheme" : "4-2-5",
-          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/847\/full\/texas_state_bobcats_logo_primary_2021_sportslogosnet-2291.png",
-          "mascot" : "Bobcats",
-          "name" : "Texas State",
-          "offenseScheme" : "pro",
-          "prestige" : 52,
-          "primary" : "#501214",
-          "region" : "Southwest",
-          "secondary" : "#D7BD8A",
-          "tertiary" : "#000000"
         }
       ],
       "tier" : "Non-Power"
